@@ -1,0 +1,9 @@
+{
+	"name": "dfdevecom",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "834114ec-86fb-4ed6-a649-7609a83abc71",
+		"tenantId": "6f57393a-5b2a-48dc-bc29-9dbede93d2eb"
+	}
+}

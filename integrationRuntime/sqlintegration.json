@@ -1,0 +1,7 @@
+{
+	"name": "sqlintegration",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "onpremises to cloud data store"
+	}
+}
