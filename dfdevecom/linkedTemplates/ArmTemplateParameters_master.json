@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dfdevecom"
+		},
+		"LS_SQL_LKUP_password": {
+			"value": ""
+		},
+		"LS_SQL_PARQUE_accountKey": {
+			"value": ""
+		},
+		"LS_SQL_PARQUE1_accountKey": {
+			"value": ""
+		},
+		"LS_SQL_LKUP_properties_typeProperties_server": {
+			"value": ".\\SQLEXPRESS"
+		},
+		"LS_SQL_LKUP_properties_typeProperties_database": {
+			"value": "EcomApplication"
+		},
+		"LS_SQL_LKUP_properties_typeProperties_userName": {
+			"value": "sa"
+		},
+		"LS_SQL_PARQUE_properties_typeProperties_url": {
+			"value": "https://adlsecomproject.dfs.core.windows.net/"
+		},
+		"LS_SQL_PARQUE1_properties_typeProperties_url": {
+			"value": "https://adlsecomproject.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
